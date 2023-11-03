@@ -1,0 +1,4 @@
+repository "VR Room@BJ1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
